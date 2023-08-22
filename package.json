@@ -1,0 +1,26 @@
+{
+  "name": "react-native-didactic-memory",
+  "version": "1.0.0",
+  "description": "this is designed for shiny",
+  "homepage": "https://github.com/dorislynch/react-native-didactic-memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-didactic-memory"
+  ],
+  "author": {
+    "name": "fluffy",
+    "email": "fluffy@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dorislynch/react-native-didactic-memory.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
